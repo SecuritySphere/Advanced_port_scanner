@@ -18,8 +18,8 @@ Result Saving: Option to save scan results to a text file.
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/advanced-python-port-scanner.git
-cd advanced-python-port-scanner
+git clone https://github.com/SecuritySphere/Advanced_port_scanner.git
+
 
 Install required dependencies (if any):
 The scanner uses Python's built-in libraries such as socket, threading, argparse, and time. No external libraries are required for basic functionality.
